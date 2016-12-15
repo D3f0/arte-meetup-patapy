@@ -65,15 +65,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.63571268"
-     inkscape:cx="504.96893"
-     inkscape:cy="400.33809"
+     inkscape:cx="246.20423"
+     inkscape:cy="526.1811"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="851"
-     inkscape:window-x="-2"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
@@ -183,13 +183,13 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Hack;-inkscape-font-specification:'Hack, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008000"
    id="flowSpan3463">print</flowSpan>(<flowSpan
    style="fill:#aa0000"
-   id="flowSpan4175">&quot;Próximo Meetup&quot;</flowSpan>)</flowPara><flowPara
+   id="flowSpan4175">&quot;Proximo Meetup&quot;</flowSpan>)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Hack;-inkscape-font-specification:'Hack, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="flowPara3465">fecha = datetime.strptime(<flowSpan
    style="fill:#aa0000"
    id="flowSpan4179">&quot;17 de Dic 2016 : 14hs&quot;</flowSpan>)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Hack;-inkscape-font-specification:'Hack, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara3397">dónde = <flowSpan
+         id="flowPara3397">donde = <flowSpan
    style="fill:#aa0000"
    id="flowSpan4181">&quot;En las instalaciones del CENPAT&quot;</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
