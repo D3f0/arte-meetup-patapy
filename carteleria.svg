@@ -64,15 +64,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.63571268"
-     inkscape:cx="246.20423"
-     inkscape:cy="526.1811"
+     inkscape:zoom="1.5069401"
+     inkscape:cx="467.97871"
+     inkscape:cy="164.37782"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -228,7 +228,7 @@
            x="67.014816"
            y="172.604" /></flowRegion><flowPara
          id="flowPara3554"
-         style="font-size:7.0555563px">Inscripciónes Aquí</flowPara></flowRoot>    <image
+         style="font-size:7.0555563px">Inscripciones Aquí</flowPara></flowRoot>    <image
        y="229.40779"
        x="90.049034"
        id="image4483"
@@ -258,7 +258,7 @@
            width="143.405"
            id="rect4380" /></flowRegion><flowPara
          style="font-size:7.0555563px"
-         id="flowPara4382">Para poder asisitir neceistas estar inscripto y haber rellenado tud datos </flowPara><flowPara
+         id="flowPara4382">Para poder asisitir necesitas estar inscripto y haber rellenado tus datos </flowPara><flowPara
          style="font-size:7.0555563px"
          id="flowPara4384">en este link: <flowSpan
    style="font-weight:bold"
